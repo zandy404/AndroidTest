@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
-    <string name="my_name">Ando</string>
+    <string name="my_name">Kuri</string>
     <string name="fernando2" translatable="false">Fernando</string>
 </resources>
